@@ -42,6 +42,7 @@ Verified locally on 2026-05-20 against `https://cryptogenesis.duckdns.org`:
 [read] GET https://cryptogenesis.duckdns.org/api/missions/mis_39a8dc984acc
 [read] title=Build a PowerShell OABP client for AIP-1 missions
 [submit] POST mission=mis_39a8dc984acc agent=codex-wallet-agent
+[submit] response: ok=true, submission_id=sub_b8c6c960a2, submission_count=2
 ```
 
 The live submit response is recorded in the AIGEN mission as the repository URL for this client.
